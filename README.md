@@ -4,6 +4,6 @@
 
 ## 目录
 - 第二章
-    - [2.1-初识神经网络]()
+    - <a target="_blank" href="https://nbviewer.jupyter.org/github/Dongzhixiao/deep-learning-with-python-notebooks-Chinese-Version/blob/master/2.1-%E5%88%9D%E8%AF%86%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb">2.1-初识神经网络</a>
 - 第三章
-    - [3.5-影评分类]()
+    - <a target="_blank"  href="https://nbviewer.jupyter.org/github/Dongzhixiao/deep-learning-with-python-notebooks-Chinese-Version/blob/master/3.5-%E5%BD%B1%E8%AF%84%E5%88%86%E7%B1%BB.ipynb">3.5-影评分类</a>
